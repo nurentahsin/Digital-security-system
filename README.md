@@ -1,0 +1,2 @@
+Our objective is to make a digital system that will contain digital security options such as password protected in-order to provide higher and alternative security for sensitive data and assets.In order to prevent digital theft, security scams and other unethical problems our 
+team have been motivated to build a digital password security system as Passwords provide the first line of defense against unauthorized access to your asset, computer and personal information
